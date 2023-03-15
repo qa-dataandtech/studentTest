@@ -1,0 +1,9 @@
+First go to C drive.
+>cd C:\Users\esmat\Documents
+>git clone https://github.com/qa-dataandtech/studentTest.git (copy the path from Githab)
+Edit or add new line in the file and save
+>cd C:\Users\esmat\Documents\studentTest
+>git status
+>git add  NewWork.txt
+>git commit -m"Add new note"
+>git push
